@@ -1,0 +1,181 @@
+{ id: 1,
+      name: "Sunday",
+      weather: "snowy",
+      icon: snowy,
+      high_temp: '58',
+      low_temp: '37',
+      hours: [
+        {
+          name: "4pm",
+          temp: "56"
+        },
+        {
+          name: "5pm",
+          temp: "55"
+        },
+        {
+          name: "6pm",
+          temp: "53"
+        },
+        {
+          name: "7pm",
+          temp: "50"
+        },
+
+      ]
+    },
+    { id: 2,
+      name: "Monday",
+      weather: "sunny",
+      icon: sunny,
+      high_temp: '78',
+      low_temp: '67',
+      hours: [
+        {
+          name: "4pm",
+          temp: "56"
+        },
+        {
+          name: "5pm",
+          temp: "55"
+        },
+        {
+          name: "6pm",
+          temp: "53"
+        },
+        {
+          name: "7pm",
+          temp: "50"
+        },
+
+      ]
+    },
+    { id: 3,
+      name: "Tuesday",
+      weather: "cloudy",
+      icon: cloudy,
+      high_temp: '78',
+      low_temp: '64',
+      hours: [
+        {
+          name: "4pm",
+          temp: "56"
+        },
+        {
+          name: "5pm",
+          temp: "55"
+        },
+        {
+          name: "6pm",
+          temp: "53"
+        },
+        {
+          name: "7pm",
+          temp: "50"
+        },
+
+      ]
+    },
+    { id: 4,
+      name: "Wednesday",
+      weather: "rainy",
+      icon: rainy,
+      high_temp: '77',
+      low_temp: '65',
+      hours: [
+        {
+          name: "4pm",
+          temp: "56"
+        },
+        {
+          name: "5pm",
+          temp: "55"
+        },
+        {
+          name: "6pm",
+          temp: "53"
+        },
+        {
+          name: "7pm",
+          temp: "50"
+        },
+
+      ]
+    },
+    { id: 5,
+      name: "Thursday",
+      weather: "cloudy",
+      icon: cloudy,
+      high_temp: '68',
+      low_temp: '47',
+      hours: [
+        {
+          name: "4pm",
+          temp: "56"
+        },
+        {
+          name: "5pm",
+          temp: "55"
+        },
+        {
+          name: "6pm",
+          temp: "53"
+        },
+        {
+          name: "7pm",
+          temp: "50"
+        },
+
+      ]
+    },
+    { id: 6,
+      name: "Friday",
+      weather: "rainy",
+      icon: rainy,
+      high_temp: '75',
+      low_temp: '63',
+      hours: [
+        {
+          name: "4pm",
+          temp: "56"
+        },
+        {
+          name: "5pm",
+          temp: "55"
+        },
+        {
+          name: "6pm",
+          temp: "53"
+        },
+        {
+          name: "7pm",
+          temp: "50"
+        },
+
+      ]
+    },
+    { id: 7,
+      name: "Saturday",
+      weather: "sunny",
+      icon: sunny,
+      high_temp: '77',
+      low_temp: '66',
+      hours: [
+        {
+          name: "4pm",
+          temp: "56"
+        },
+        {
+          name: "5pm",
+          temp: "55"
+        },
+        {
+          name: "6pm",
+          temp: "53"
+        },
+        {
+          name: "7pm",
+          temp: "50"
+        },
+  ]
+}

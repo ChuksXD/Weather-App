@@ -1,0 +1,52 @@
+:link{
+    text-decoration: none;
+}
+.header{
+    background-color: #131921;
+    display: flex;
+    align-items: center;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+.my_header{
+    display: flex;
+}
+.header_text{
+    color: aliceblue;
+    padding-right:  20px;
+    padding-left: 20px;
+    padding-top: 10px;
+    font-style: italic;
+    font-family: cursive;
+}
+.header_logo{
+    width: 70px;
+    object-fit: contain;
+    margin: 0 20px;
+    margin-top: 5px;
+}
+.header_searchIcon{
+    padding: 0px;
+    height: 20px !important;
+    
+}
+.header_search{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+ .header_search> button{
+    line-height: 0px;
+    height: 25px;
+    padding: 1px;
+     font-size: 20px;
+ }
+ /* If the screen size is 600px or less, set the font-size of <div> to 30px */
+@media only screen and (max-width: 600px) {
+    .header {
+         
+      width: 500px;
+      
+    }
+  }
